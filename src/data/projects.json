@@ -1,0 +1,65 @@
+[
+    {
+        "image":"/images/.png",
+        "title":"sye",
+        "description":"",
+        "site":"#",
+        "github":"#"
+    },
+    {
+        "image":"/images/spotify.png",
+        "title":"MakeYourList",
+        "description":" a user-friendly platform that empowers Spotify users to curate personalized playlists effortlessly. Users can handpick their favorite songs from their existing playlists and assemble them into new, custom playlists",
+        "site":"https://makeyourlist-tharunmadishettis-projects.vercel.app/",
+        "github":"https://github.com/TharunMadishetti/makeyourlist/"
+    },
+    {
+        "image":"/images/calculator.png",
+        "title":"Calculator",
+        "description":"This Android application, provides users with a convenient calculator tool. Users can perform basic arithmetic operations such as addition, subtraction, multiplication, and division by tapping on corresponding buttons",
+        "site":"#",
+        "github":"https://github.com/TharunMadishetti/calculator"
+    },
+    {
+        "image":"/images/backtrack.png",
+        "title":"Backtracking Visualizer",
+        "description":"an HTML-based web application designed to visualize the backtracking algorithm's application in solving Sudoku puzzles.",
+        "site":"https://tharunmadishetti.github.io/BacktrackingVisualizer/",
+        "github":"https://github.com/tharunmadishetti/BacktrackingVisualizer/"
+    },
+    {
+        "image":"/images/taskboard.png",
+        "title":"Taskboard",
+        "description":"a web application for effortlessly managing tasks and keeping your to-do list organized This application is built with ReactJs and enhanced with react-toastify to provide an intuitive and efficient task management experience.",
+        "site":"https://taskboard-tharunmadishettis-projects.vercel.app/",
+        "github":"https://github.com/TharunMadishetti/taskboard"
+    },
+    {
+        "image":"/images/testcase.png",
+        "title":"TestCasesGenerator",
+        "description":"It's a tool for generating various types of test cases for programming and testing purposes. The tool provides three main functions: generating random strings, generating random arrays, and specifying test case parameters.",
+        "site":"https://testcasesgenerator.streamlit.app/",
+        "github":"https://github.com/TharunMadishetti/Test_Case_Generator"
+    },
+    {
+        "image":"/images/omdb.png",
+        "title":"Cinestream",
+        "description":"a web-based application built using the Streamlit library in Python. It offers the ability to search for top-rated movies and displays detailed information about the selected movie, including its poster, IMDb rating, and a clickable link to watch it.",
+        "site":"https://cinestream.streamlit.app/",
+        "github":"https://github.com/TharunMadishetti/CineStream"
+    },
+    {
+        "image":"../images/anime.png",
+        "title":"recommend-anime",
+        "description":"a web-based Anime Recommender System.It allows users to select their favorite anime from a list and then provides recommendations based on their choice.",
+        "site":"https://anime-recommender.streamlit.app/",
+        "github":"https://github.com/TharunMadishetti/Anime_Recommender"
+    },
+    {
+        "image":"../images/pingpong.png",
+        "title":"pingpong",
+        "description":"a classic game of Pong implemented in Python using the Turtle graphics library",
+        "site":"#",
+        "github":"https://github.com/TharunMadishetti/PythonProjects/tree/main/PongGame"
+    }
+]
