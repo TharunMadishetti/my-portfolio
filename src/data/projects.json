@@ -1,24 +1,17 @@
 [
     {
-        "image":"/images/.png",
+        "image":"/images/sye.png",
         "title":"sye",
-        "description":"",
+        "description": "A web application that provides users with the ability to explore and practice data structures and algorithms through a curated list of problems while offering the unique feature of inviting friends to join them.",
         "site":"#",
         "github":"#"
     },
     {
         "image":"/images/spotify.png",
         "title":"MakeYourList",
-        "description":" a user-friendly platform that empowers Spotify users to curate personalized playlists effortlessly. Users can handpick their favorite songs from their existing playlists and assemble them into new, custom playlists",
+        "description":" a user-friendly platform that empowers Spotify users to curate personalized playlists.Users can pick their favorite songs from their existing playlists and assemble them into new, custom playlists",
         "site":"https://makeyourlist-tharunmadishettis-projects.vercel.app/",
         "github":"https://github.com/TharunMadishetti/makeyourlist/"
-    },
-    {
-        "image":"/images/calculator.png",
-        "title":"Calculator",
-        "description":"This Android application, provides users with a convenient calculator tool. Users can perform basic arithmetic operations such as addition, subtraction, multiplication, and division by tapping on corresponding buttons",
-        "site":"#",
-        "github":"https://github.com/TharunMadishetti/calculator"
     },
     {
         "image":"/images/backtrack.png",
@@ -30,21 +23,28 @@
     {
         "image":"/images/taskboard.png",
         "title":"Taskboard",
-        "description":"a web application for effortlessly managing tasks and keeping your to-do list organized This application is built with ReactJs and enhanced with react-toastify to provide an intuitive and efficient task management experience.",
+        "description":"a web application for effortlessly managing tasks and keeping your to-do list organized.This application is built with ReactJs",
         "site":"https://taskboard-tharunmadishettis-projects.vercel.app/",
         "github":"https://github.com/TharunMadishetti/taskboard"
     },
     {
+        "image":"/images/calculator.png",
+        "title":"Calculator",
+        "description":"This Android application, provides users with a convenient calculator.Users can perform basic arithmetic operations such as addition, subtraction, multiplication, and division by tapping on buttons",
+        "site":"#",
+        "github":"https://github.com/TharunMadishetti/calculator"
+    },
+    {
         "image":"/images/testcase.png",
         "title":"TestCasesGenerator",
-        "description":"It's a tool for generating various types of test cases for programming and testing purposes. The tool provides three main functions: generating random strings, generating random arrays, and specifying test case parameters.",
+        "description":"a tool for generating various types of testcases for programming purposes. The tool provides three main functions: generating random strings, generating random arrays, and specifying test case parameters.",
         "site":"https://testcasesgenerator.streamlit.app/",
         "github":"https://github.com/TharunMadishetti/Test_Case_Generator"
     },
     {
         "image":"/images/omdb.png",
         "title":"Cinestream",
-        "description":"a web-based application built using the Streamlit library in Python. It offers the ability to search for top-rated movies and displays detailed information about the selected movie, including its poster, IMDb rating, and a clickable link to watch it.",
+        "description":"an application built using the Streamlit library in Python. It offers the ability to search for top-rated movies and displays details about the selected movie, including its poster and IMDb rating",
         "site":"https://cinestream.streamlit.app/",
         "github":"https://github.com/TharunMadishetti/CineStream"
     },

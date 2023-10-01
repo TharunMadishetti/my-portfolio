@@ -5,8 +5,6 @@ import projects from '../data/projects.json';
 
 
 const Projects = () => {
-  console.log("Projects")
-  
   return (
     <motion.div className='mt-24 p-12 h-auto flex flex-col justify-evenly items-start md:items-center'
     initial={{ opacity: 0}}
