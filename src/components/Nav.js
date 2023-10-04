@@ -5,7 +5,6 @@ const Nav = () => {
   return (
       <div className='fixed  h-20 w-full top-0  bg-black flex items-center font-bold '>
           <section className='w-full flex justify-around md:justify-evenly text-base md:text-lg'>
-
           <Link 
           to='/' 
           key='home'  
