@@ -2,7 +2,7 @@
     {
         "image":"/images/sye.png",
         "title":"sye",
-        "description": "A web application that provides users with the ability to explore and practice data structures and algorithms through a curated list of problems while offering the unique feature of inviting friends to join them.",
+        "description": "MERN application that provides users with the ability to explore and practice DSA through a curated list of problems while offering the unique feature of inviting friends to join them.",
         "site":"https://sye-lac.vercel.app/",
         "github":"#"
     },
